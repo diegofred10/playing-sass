@@ -1,3 +1,23 @@
-body {
-    background-color: aqua;
+header {
+    box-sizing: border-box;
+
+position: absolute;
+width: 800px;
+height: 80px;
+left: 50px;
+top: 26px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+}
+
+.banner {
+    position: absolute;
+width: 801px;
+height: 284px;
+left: 49px;
+top: 136px;
+
+background: #C4C4C4;
+border-radius: 20px;
 }
